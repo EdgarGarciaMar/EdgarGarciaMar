@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar</h1>
 <h3 align="center">A passionate Programmer from Mexico 🇲🇽</h3>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=EdgarGarciaMar&color=brightgreen&style=plastic alt=EdgarGarciaMar/> </p>
 
 <p align = "center"><img src = "https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/programador.gif" width="900" height="400"/></p>
 <p align ="center"><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
