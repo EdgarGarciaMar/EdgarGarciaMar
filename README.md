@@ -130,6 +130,4 @@
       </a>
     </p>
 
-<p align = "center"><img src = "https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/giphy.gif"  width="900" height="400"/></p>
-<p align = "center"><a href="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf">via GIPHY</a></p>
-</details>
+
