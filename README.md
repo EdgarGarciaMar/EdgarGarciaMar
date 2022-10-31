@@ -4,12 +4,14 @@
 
 
 
-<p align = "center"><img src = "https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/programador.gif" width="900" height="400"/></p>
-<p align ="center"><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<p align = "center"><img src = "https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/G.gif" width="900" height="600"/></p>
 
-- 🌱 I’m currently learning **Python, Vue**
+
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available here
+
+- :racing_car:  I love motorsport, I even created my kart
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -17,7 +19,7 @@
 <a href="https://instagram.com/edgar.gar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgar.gar_24" height="30" width="40" /></a>
 </p>
 <details open="">
-  <summary><h2>Programming languages and Developer tools that I've used.:</h2></summary>
+  <summary><h2>Programming languages and Developer tools that I've used:</h2></summary>
 
 <p align="center">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -118,14 +120,6 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
           alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-          alt="vuejs"
           width="40"
           height="40"
         />
