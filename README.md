@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Programmer from Mexico 🇲🇽</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=EdgarGarciaMar&color=brightgreen&style=plastic alt=EdgarGarciaMar/> </p>
 
+
+
 <p align = "center"><img src = "https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/programador.gif" width="900" height="400"/></p>
 <p align ="center"><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
@@ -133,9 +135,31 @@
   <details open="">
   <summary><h2>Quick stats</h2></summary>
     
-    
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarGarciaMar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="EdgarGarciaMar" /></p>
+  
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarGarciaMar&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true" />
+</picture>
   
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true&theme=tokyonight&locale=en" alt="EdgarGarciaMar" /></p>
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true" />
+</picture>
+  
+
 </details>
