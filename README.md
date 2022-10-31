@@ -17,7 +17,7 @@
 <a href="https://instagram.com/edgar.gar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgar.gar_24" height="30" width="40" /></a>
 </p>
 <details open="">
-  <summary><h2>Languages and Tools:</h2></summary>
+  <summary><h2>Programming languages and Developer tools that I've used.:</h2></summary>
 
 <p align="center">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
