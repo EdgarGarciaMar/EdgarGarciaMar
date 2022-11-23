@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=0C57A2&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Edgar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=E7E6E5&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Edgar" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=0C57A2&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from++%F0%9F%87%B2%F0%9F%87%BD+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=E7E6E5&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" /></a>
 </div>
 
 
@@ -11,16 +11,16 @@
 <p align = "center"><img src = "https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/G.gif" width="900" height="600"/></p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=0C57A2&width=435&lines=-I%E2%80%99m+currently+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a>
+<h3>-I'm currently learning Python 🐍</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=0C57A2&width=435&lines=-All+of+my+projects+are+available+%F0%9F%91%87" alt="Typing SVG" /></a>
+<h3>-All of my projects 👨‍💻 are available 👇</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=0C57A2&width=435&lines=-I+love+motorsport+%F0%9F%8F%8E" alt="Typing SVG" /></a>
+<h3>-I ❤ motorsport 🏎</h3>
 
 
 
-<h2 align="left">Connect with me:</h2>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=EdgarGarciaMar&color=brightgreen&style=plastic alt=EdgarGarciaMar/> </p>
+
+<h2 align="left"><img src=https://komarev.com/ghpvc/?username=EdgarGarciaMar&color=brightgreen&style=plastic alt=EdgarGarciaMar/> Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/edgar-garcia-marciano-11c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-garcia-marciano-11c" height="30" width="40" /></a>
 <a href="https://instagram.com/edgar.gar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgar.gar_24" height="30" width="40" /></a>
@@ -163,7 +163,7 @@
       </a>
       <a href="https://www.apple.com/mx/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
+          src="https://cdn-icons-png.flaticon.com/512/179/179309.png"
           alt="MacOS"
           width="40"
           height="40"
@@ -205,15 +205,26 @@
           height="50"
         />
       </a>
+            <a
+        href="https://netbeans.apache.org/download/index.html"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://netbeans.apache.org/images/apache-netbeans.svg"
+          alt="Netbeans"
+          width="50"
+          height="50"
+        />
+      </a>
     </p>
 </details>
   <details open="">
   <summary><h2>Quick stats</h2></summary>
-    
-  
+  <div align="center">
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarGarciaMar&show_icons=true&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarGarciaMar&layout=compact&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -223,6 +234,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true" />
 </picture>
   
+  <br>
   
   <picture>
 <source 
@@ -235,6 +247,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true" />
 </picture>
-  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarGarciaMar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 </details>
