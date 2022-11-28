@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=E7E6E5&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Edgar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=969392&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Edgar" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=E7E6E5&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&color=969392&center=true&vCenter=true&width=435&lines=A+passionate+Programmer+from+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" /></a>
 </div>
 
 
