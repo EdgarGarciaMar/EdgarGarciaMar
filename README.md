@@ -222,31 +222,11 @@
   <details open="">
   <summary><h2>Quick stats</h2></summary>
   <div align="center">
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarGarciaMar&layout=compact&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true" />
-</picture>
   
-  <br>
-  
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&show_icons=true" />
-</picture>
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarGarciaMar&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarGarciaMar&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarGarciaMar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
