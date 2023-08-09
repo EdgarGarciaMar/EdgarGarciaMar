@@ -217,6 +217,30 @@
           height="50"
         />
       </a>
+     <a
+        href="https://azure.microsoft.com/es-mx/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src=""
+          alt="Azure"
+          width="50"
+          height="50"
+        />
+      </a>
+     <a
+        href="https://www.r-project.org/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src=""
+          alt="R"
+          width="50"
+          height="50"
+        />
+      </a>
     </p>
 </details>
   <details open="">
