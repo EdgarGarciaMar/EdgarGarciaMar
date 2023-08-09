@@ -223,7 +223,7 @@
         rel="noreferrer"
       >
         <img
-          src=""
+          src="https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/azure-icon-svgrepo-com.svg"
           alt="Azure"
           width="50"
           height="50"
@@ -235,7 +235,7 @@
         rel="noreferrer"
       >
         <img
-          src=""
+          src="https://github.com/EdgarGarciaMar/EdgarGarciaMar/blob/main/icons8-r-project.svg"
           alt="R"
           width="50"
           height="50"
