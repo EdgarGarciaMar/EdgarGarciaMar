@@ -23,7 +23,6 @@
 <h2 align="left"><img src=https://komarev.com/ghpvc/?username=EdgarGarciaMar&color=brightgreen&style=plastic alt=EdgarGarciaMar/> Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/edgar-garcia-marciano-11c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-garcia-marciano-11c" height="30" width="40" /></a>
-<a href="https://instagram.com/edgar.gar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgar.gar_24" height="30" width="40" /></a>
 </p>
 <details open="">
   <summary><h2>Programming languages and Developer tools that I've used:</h2></summary>
